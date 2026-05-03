@@ -9,7 +9,7 @@ The agent navigates an unknown environment, infers safe cells through logical re
 
 ## GitHub Repository
 
-🔗 [Repository Link](https://github.com/MHassan05/wampus-agent)
+https://github.com/Commandok/Wumpus-World-Knowledge-Based-Agent
 
 ---
 
